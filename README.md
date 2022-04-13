@@ -31,9 +31,11 @@
 <details>
 <summary>gh-pages 배포 관련 문제</summary>
 <div markdown="1">
+  
 * 처음에 ```Character_KAR.html``` 이런식으로 html 파일명을 줘서 배포를 시도했기 때문에   
   오류 문구에서 ```index.html```이 없다는 것을 발견함
 * index.html로 파일명을 고치고 다시 배포하니 해결됨
+  
 </div>
 </details>
     
